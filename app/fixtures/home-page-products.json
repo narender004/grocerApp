@@ -1,0 +1,402 @@
+[
+  {
+    "category": {
+      "categoryId": 47,
+      "title": "Grocery & Essentials",
+      "parentCategoryId": 0,
+      "showOnHomePage": true,
+      "hsncode": "10",
+      "gstper": 12,
+      "showInHomePageCatRow": true,
+      "catRowSeqNo": 1
+    },
+    "categoryImages": [
+      {
+        "imageId": 94,
+        "sourceType": 2,
+        "sourceId": 47,
+        "thumbnailImage": "",
+        "mediumImage": "http://devapi.grocer21.com/images/Categories/47/e56b122e-2e4d-4e05-9fbd-94747d45b6f5_grocery and essential.png",
+        "largeImage": ""
+      }
+    ],
+    "products": [
+      {
+        "product": {
+          "productId": 54,
+          "categoryId": 47,
+          "name": "BB Royal MP Sharbati Atta Whole Wheat - Rotis Stay Softer For Longer Fortified, 1 kg",
+          "description": "Higher Nutritional Content Than Regular Whole Wheat Atta. ...\nAids in Digestion, Improves Metabolism and Protects Immunity. ...\nEnriched With Beneficial Qualities Of Many Different Whole Grains",
+          "mrp": 150,
+          "salePrice": 100,
+          "stockAvailable": true,
+          "showOnHomePage": true
+        },
+        "images": [
+          {
+            "imageId": 168,
+            "sourceType": 3,
+            "sourceId": 54,
+            "thumbnailImage": "",
+            "mediumImage": "https://www.bigbasket.com/media/uploads/p/s/40151625_7-bb-royal-superior-mp-sharbati-atta-fortified.jpg",
+            "largeImage": ""
+          }
+        ],
+        "productVariants": [
+          {
+            "productVariant": {
+              "productVariantId": 12,
+              "productId": 54,
+              "seqNo": 14,
+              "name": "BB Royal MP Sharbati Atta Whole Wheat - Rotis Stay Softer For Longer Fortified, 1 kg",
+              "description": null,
+              "mrp": 150,
+              "salePrice": 100,
+              "stockAvailable": true
+            },
+            "color": {},
+            "size": {
+              "sizeId": 2,
+              "size": "1 Kg"
+            },
+            "images": []
+          },
+          {
+            "productVariant": {
+              "productVariantId": 5,
+              "productId": 54,
+              "seqNo": 15,
+              "name": "BB Royal 100% MP Sharbati Atta, 2x1 kg Multipack",
+              "description": null,
+              "mrp": 300,
+              "salePrice": 200,
+              "stockAvailable": true
+            },
+            "color": {},
+            "size": {
+              "sizeId": 2,
+              "size": "2 Kg"
+            },
+            "images": [
+              {
+                "imageId": 168,
+                "sourceType": 3,
+                "sourceId": 54,
+                "thumbnailImage": "",
+                "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/1205602_5-bb-royal-100-mp-sharbati-atta.jpg",
+                "largeImage": ""
+              }
+            ]
+          },
+          {
+            "productVariant": {
+              "productVariantId": 6,
+              "productId": 54,
+              "seqNo": 3,
+              "name": "BB Royal MP Sharbati Atta Whole Wheat - Rotis Stay Softer For Longer, Fortified, 5 kg",
+              "description": null,
+              "mrp": 1000,
+              "salePrice": 500,
+              "stockAvailable": true
+            },
+            "color": {},
+            "size": {
+              "sizeId": 2,
+              "size": "5 Kg"
+            },
+            "images": [
+              {
+                "imageId": 168,
+                "sourceType": 3,
+                "sourceId": 54,
+                "thumbnailImage": "",
+                "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40151626_7-bb-royal-superior-mp-sharbati-atta-fortified.jpg",
+                "largeImage": ""
+              }
+            ]
+          },
+          {
+            "productVariant": {
+              "productVariantId": 7,
+              "productId": 54,
+              "seqNo": 5,
+              "name": "BB Royal Atta Sharbati MP Whole Wheat - Rotis Stay Softer For Longer, Fortified, 10 kg Pouch",
+              "description": null,
+              "mrp": 2000,
+              "salePrice": 1000,
+              "stockAvailable": false
+            },
+            "color": {},
+            "size": {
+              "sizeId": 2,
+              "size": "10 Kg"
+            },
+            "images": [
+              {
+                "imageId": 168,
+                "sourceType": 3,
+                "sourceId": 54,
+                "thumbnailImage": "",
+                "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40189429_4-bb-royal-superior-mp-sharbati-atta-fortified.jpg",
+                "largeImage": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "product": {
+          "productId": 55,
+          "categoryId": 47,
+          "name": "Nisha Creme Hair Colour, 1 pc (30 ml + 20 g)",
+          "description": "Nisha Creme Hair Color is a creme-based premium hair colour without ammonia; with the benefits of sunflower, avocado, and henna extracts. These herbs ensure conditioning and colouring of hair without damaging them. This creme-based hair colour colours your grey hair and makes your hair soft, silky and stylish.",
+          "mrp": 50,
+          "salePrice": 30,
+          "stockAvailable": true,
+          "showOnHomePage": true
+        },
+        "images": [
+          {
+            "imageId": 167,
+            "sourceType": 3,
+            "sourceId": 54,
+            "thumbnailImage": "",
+            "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40203415_1-nisha-creme-hair-colour-flame-red.jpg",
+            "largeImage": ""
+          }
+        ],
+        "productVariants": [
+          {
+            "productVariant": {
+              "productVariantId": 8,
+              "productId": 54,
+              "seqNo": 10,
+              "name": "Nisha Creme Hair Colour, 1 pc (30 ml + 20 g)",
+              "description": null,
+              "mrp": 50,
+              "salePrice": 30,
+              "stockAvailable": true
+            },
+            "color": {
+              "color": "#964B00"
+            },
+            "size": {
+              "sizeId": 2,
+              "size": "30 ml"
+            },
+            "images": []
+          },
+          {
+            "productVariant": {
+              "productVariantId": 90,
+              "productId": 54,
+              "seqNo": 110,
+              "name": "Nisha Creme Hair Colour - 1.0, 1 pc (30 ml)",
+              "description": null,
+              "mrp": 300,
+              "salePrice": 200,
+              "stockAvailable": true
+            },
+            "color": {
+              "color": "#000555"
+            },
+            "size": {
+              "sizeId": 2,
+              "size": "30 ml"
+            },
+            "images": [
+              {
+                "imageId": 168,
+                "sourceType": 3,
+                "sourceId": 54,
+                "thumbnailImage": "",
+                "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40203406-5_1-nisha-creme-hair-colour-10-natural-black.jpg",
+                "largeImage": ""
+              }
+            ]
+          },
+          {
+            "productVariant": {
+              "productVariantId": 9,
+              "productId": 54,
+              "seqNo": 11,
+              "name": "Black Nisha Creme Hair Colour - 1.0, 1 pc (30 ml)",
+              "description": null,
+              "mrp": 300,
+              "salePrice": 200,
+              "stockAvailable": true
+            },
+            "color": {
+              "color": "#000000"
+            },
+            "size": {
+              "sizeId": 2,
+              "size": "30 ml"
+            },
+            "images": [
+              {
+                "imageId": 168,
+                "sourceType": 3,
+                "sourceId": 54,
+                "thumbnailImage": "",
+                "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40203406-5_1-nisha-creme-hair-colour-10-natural-black.jpg",
+                "largeImage": ""
+              }
+            ]
+          },
+          {
+            "productVariant": {
+              "productVariantId": 91,
+              "productId": 54,
+              "seqNo": 1100,
+              "name": "60 ml Black Nisha Creme Hair Colour - 1.0, 1 pc (30 ml)",
+              "description": null,
+              "mrp": 300,
+              "salePrice": 200,
+              "stockAvailable": true
+            },
+            "color": {
+              "color": "#000000"
+            },
+            "size": {
+              "sizeId": 2,
+              "size": "60 ml"
+            },
+            "images": [
+              {
+                "imageId": 168,
+                "sourceType": 3,
+                "sourceId": 54,
+                "thumbnailImage": "",
+                "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40203406-5_1-nisha-creme-hair-colour-10-natural-black.jpg",
+                "largeImage": ""
+              }
+            ]
+          },
+          {
+            "productVariant": {
+              "productVariantId": 10,
+              "productId": 54,
+              "seqNo": 12,
+              "name": "Nisha Creme Hair Colour - 1.0, 1 pc (60 ml)",
+              "description": null,
+              "mrp": 1000,
+              "salePrice": 500,
+              "stockAvailable": true
+            },
+            "color": {
+              "color": "#9a3300"
+            },
+            "size": {
+              "sizeId": 2,
+              "size": "60 ml"
+            },
+            "images": [
+              {
+                "imageId": 168,
+                "sourceType": 3,
+                "sourceId": 54,
+                "thumbnailImage": "",
+                "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40203410_1-nisha-creme-hair-colour-flame-red.jpg",
+                "largeImage": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "product": {
+          "productId": 56,
+          "categoryId": 47,
+          "name": "Jaycee Value Hanger - Sturdy Design, Durable, For Shirts, Suits, Dresses",
+          "description": "Jaycee presents a wide variety of hangers including Italian, Indian, Value and Polystyrene. These are made up of the best quality raw materials. These have Appropriate radians design for all standard clothes rods, fit for shirts, suits, dresses, coats, etc. Whether they be used to hang an entire outfit, air dries a blouse or used for hanging dresses; these hangers are dependable, affordable and stand up to years of use.",
+          "mrp": 50,
+          "salePrice": 30,
+          "stockAvailable": true,
+          "showOnHomePage": true
+        },
+        "images": [
+          {
+            "imageId": 167,
+            "sourceType": 3,
+            "sourceId": 54,
+            "thumbnailImage": "",
+            "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40274262-3_1-jaycee-value-hanger-flat-section-set-of-6.jpg",
+            "largeImage": ""
+          }
+        ],
+        "productVariants": [
+          {
+            "productVariant": {
+              "productVariantId": 8,
+              "productId": 54,
+              "seqNo": 10,
+              "name": "Jaycee Value Hanger - Sturdy Design, Durable, For Shirts, Suits, Dresses",
+              "description": null,
+              "mrp": 50,
+              "salePrice": 30,
+              "stockAvailable": true
+            },
+            "color": {
+              "color": "#90ee90"
+            },
+            "size": {},
+            "images": []
+          },
+          {
+            "productVariant": {
+              "productVariantId": 9,
+              "productId": 54,
+              "seqNo": 11,
+              "name": "Jaycee Value Hanger - Sturdy Design, Durable, For Shirts, Suits, Dresses blue",
+              "description": null,
+              "mrp": 50,
+              "salePrice": 30,
+              "stockAvailable": true
+            },
+            "color": {
+              "color": "#ADD8E6"
+            },
+            "size": {},
+            "images": [
+              {
+                "imageId": 168,
+                "sourceType": 3,
+                "sourceId": 54,
+                "thumbnailImage": "",
+                "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40274262_1-jaycee-value-hanger-flat-section-set-of-6.jpg",
+                "largeImage": ""
+              }
+            ]
+          },
+          {
+            "productVariant": {
+              "productVariantId": 10,
+              "productId": 54,
+              "seqNo": 12,
+              "name": "Jaycee Value Hanger - Sturdy Design, Durable, For Shirts, Suits, Dresses white",
+              "description": null,
+              "mrp": 50,
+              "salePrice": 30,
+              "stockAvailable": false
+            },
+            "color": {
+              "color": "#ffffff"
+            },
+            "size": {},
+            "images": [
+              {
+                "imageId": 168,
+                "sourceType": 3,
+                "sourceId": 54,
+                "thumbnailImage": "",
+                "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40274262-4_1-jaycee-value-hanger-flat-section-set-of-6.jpg",
+                "largeImage": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

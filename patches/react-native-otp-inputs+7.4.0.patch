@@ -1,0 +1,10 @@
+diff --git a/node_modules/react-native-otp-inputs/src/index.tsx b/node_modules/react-native-otp-inputs/src/index.tsx
+index 7fd9e45..83183bc 100644
+--- a/node_modules/react-native-otp-inputs/src/index.tsx
++++ b/node_modules/react-native-otp-inputs/src/index.tsx
+@@ -1,4 +1,4 @@
+-import Clipboard from '@react-native-clipboard/clipboard';
++import Clipboard from '@react-native-community/clipboard';
+ import React, {
+   forwardRef,
+   RefObject,

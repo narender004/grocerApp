@@ -1,0 +1,32 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  package="com.grocer21">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+      android:name=".MainApplication"
+      android:label="@string/app_name"
+      android:icon="@mipmap/ic_launcher"
+      android:roundIcon="@mipmap/ic_launcher_round"
+      android:allowBackup="false"
+      android:usesCleartextTraffic="true"
+      android:theme="@style/AppTheme">
+      <activity
+        android:name=".MainActivity"
+        android:label="@string/app_name"
+        android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+        android:launchMode="singleTask"
+        android:exported="true"
+        android:windowSoftInputMode="stateAlwaysHidden|adjustPan">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity>
+      <meta-data android:name="com.google.firebase.messaging.default_notification_icon" android:resource="@drawable/ic_stat_name" tools:replace="android:resource" />
+      <meta-data android:name="com.google.firebase.messaging.default_notification_color" android:resource="@color/notification_color" tools:replace="android:resource" />
+      <meta-data android:name="com.bugsnag.android.API_KEY" android:value="dc80f0ad222472fe7aa47978df80428e" />
+    </application>
+</manifest>

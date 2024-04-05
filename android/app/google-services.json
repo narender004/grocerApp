@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092319865367",
+    "project_id": "rapid-smithy-321208",
+    "storage_bucket": "rapid-smithy-321208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092319865367:android:1bde0d7c846b5a25398a52",
+        "android_client_info": {
+          "package_name": "com.grocer21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092319865367-5h4be6j9po0nke6mqchc15is3tpo521t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8tOs0Fk8DDTUNSEQcXFfwHJIzKBxJRr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092319865367-5h4be6j9po0nke6mqchc15is3tpo521t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

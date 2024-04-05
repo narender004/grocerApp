@@ -1,0 +1,12 @@
+diff --git a/node_modules/@alessiocancian/react-native-actionsheet/lib/ActionSheetCustom.js b/node_modules/@alessiocancian/react-native-actionsheet/lib/ActionSheetCustom.js
+index 21764b5..12b5a8c 100644
+--- a/node_modules/@alessiocancian/react-native-actionsheet/lib/ActionSheetCustom.js
++++ b/node_modules/@alessiocancian/react-native-actionsheet/lib/ActionSheetCustom.js
+@@ -185,6 +185,7 @@ class ActionSheet extends React.Component {
+       <Modal visible={visible}
+         animationType='none'
+         transparent
++        statusBarTranslucent
+         supportedOrientations={this.props.supportedOrientations || this.defaultOrientations}
+         onRequestClose={this._cancel}
+       >

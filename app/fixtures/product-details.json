@@ -1,0 +1,123 @@
+{
+  "product": {
+    "productId": 54,
+    "categoryId": 47,
+    "name": "BB Royal MP Sharbati Atta Whole Wheat - Rotis Stay Softer For Longer Fortified, 1 kg",
+    "description": "Higher Nutritional Content Than Regular Whole Wheat Atta. ...\nAids in Digestion, Improves Metabolism and Protects Immunity. ...\nEnriched With Beneficial Qualities Of Many Different Whole Grains",
+    "mrp": 150,
+    "salePrice": 100,
+    "stockAvailable": true,
+    "showOnHomePage": true
+  },
+  "images": [
+    {
+      "imageId": 168,
+      "sourceType": 3,
+      "sourceId": 54,
+      "thumbnailImage": "",
+      "mediumImage": "https://www.bigbasket.com/media/uploads/p/s/40151625_7-bb-royal-superior-mp-sharbati-atta-fortified.jpg",
+      "largeImage": ""
+    }
+  ],
+  "productVariants": [
+    {
+      "productVariant": {
+        "productVariantId": 12,
+        "productId": 54,
+        "seqNo": 14,
+        "name": "BB Royal MP Sharbati Atta Whole Wheat - Rotis Stay Softer For Longer Fortified, 1 kg",
+        "description": null,
+        "mrp": 150,
+        "salePrice": 100,
+        "stockAvailable": true
+      },
+      "color": {},
+      "size": {
+        "sizeId": 2,
+        "size": "1 Kg"
+      },
+      "images": []
+    },
+    {
+      "productVariant": {
+        "productVariantId": 5,
+        "productId": 54,
+        "seqNo": 15,
+        "name": "BB Royal 100% MP Sharbati Atta, 2x1 kg Multipack",
+        "description": null,
+        "mrp": 300,
+        "salePrice": 200,
+        "stockAvailable": true
+      },
+      "color": {},
+      "size": {
+        "sizeId": 2,
+        "size": "2 Kg"
+      },
+      "images": [
+        {
+          "imageId": 168,
+          "sourceType": 3,
+          "sourceId": 54,
+          "thumbnailImage": "",
+          "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/1205602_5-bb-royal-100-mp-sharbati-atta.jpg",
+          "largeImage": ""
+        }
+      ]
+    },
+    {
+      "productVariant": {
+        "productVariantId": 6,
+        "productId": 54,
+        "seqNo": 3,
+        "name": "BB Royal MP Sharbati Atta Whole Wheat - Rotis Stay Softer For Longer, Fortified, 5 kg",
+        "description": null,
+        "mrp": 1000,
+        "salePrice": 500,
+        "stockAvailable": true
+      },
+      "color": {},
+      "size": {
+        "sizeId": 2,
+        "size": "5 Kg"
+      },
+      "images": [
+        {
+          "imageId": 168,
+          "sourceType": 3,
+          "sourceId": 54,
+          "thumbnailImage": "",
+          "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40151626_7-bb-royal-superior-mp-sharbati-atta-fortified.jpg",
+          "largeImage": ""
+        }
+      ]
+    },
+    {
+      "productVariant": {
+        "productVariantId": 7,
+        "productId": 54,
+        "seqNo": 5,
+        "name": "BB Royal Atta Sharbati MP Whole Wheat - Rotis Stay Softer For Longer, Fortified, 10 kg Pouch",
+        "description": null,
+        "mrp": 2000,
+        "salePrice": 1000,
+        "stockAvailable": false
+      },
+      "color": {},
+      "size": {
+        "sizeId": 2,
+        "size": "10 Kg"
+      },
+      "images": [
+        {
+          "imageId": 168,
+          "sourceType": 3,
+          "sourceId": 54,
+          "thumbnailImage": "",
+          "mediumImage": "https://www.bigbasket.com/media/uploads/p/l/40189429_4-bb-royal-superior-mp-sharbati-atta-fortified.jpg",
+          "largeImage": ""
+        }
+      ]
+    }
+  ]
+}

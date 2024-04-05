@@ -1,0 +1,74 @@
+[
+  {
+    "category": {
+      "title": "Fruits and vegetables",
+      "showOnHomePage": true
+    },
+    "image": {
+      "thumbnailImage": "https://www.pngfind.com/pngs/b/63-638758_fruits-and-vegetables-png.png"
+    }
+  },
+  {
+    "category": {
+      "title": "Personal care",
+      "showOnHomePage": true
+    },
+    "image": {
+      "thumbnailImage": "https://www.pngfind.com/pngs/b/164-1642068_cosmetics-products-png.png"
+    }
+  },
+  {
+    "category": {
+      "title": "Oils",
+      "showOnHomePage": false
+    },
+    "image": {
+      "thumbnailImage": "https://www.pngfind.com/pngs/b/83-834014_oil-png.png"
+    }
+  },
+  {
+    "category": {
+      "title": "Snacks",
+      "showOnHomePage": true
+    },
+    "image": {
+      "thumbnailImage": "https://www.pngfind.com/pngs/b/691-6912996_snack-png.png"
+    }
+  },
+  {
+    "category": {
+      "title": "Hygiene",
+      "showOnHomePage": true
+    },
+    "image": {
+      "thumbnailImage": "https://www.pngfind.com/pngs/b/484-4847173_white-block-png.png"
+    }
+  },
+  {
+    "category": {
+      "title": "Cold drinks",
+      "showOnHomePage": true
+    },
+    "image": {
+      "thumbnailImage": "https://www.pngfind.com/pngs/b/14-141042_drink-png.png"
+    }
+  },
+  {
+    "category": {
+      "title": "Baby foods",
+      "showOnHomePage": true
+    },
+    "image": {
+      "thumbnailImage": "https://www.pngfind.com/pngs/b/622-6225283_baby-food-png.png"
+    }
+  },
+  {
+    "category": {
+      "title": "Dairy and bakery",
+      "showOnHomePage": true
+    },
+    "image": {
+      "thumbnailImage": "https://www.pngfind.com/pngs/b/163-1639911_dairy-milk-png.png"
+    }
+  }
+]

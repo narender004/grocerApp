@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How do I know if I placed my order correctly?",
+    "answer": "Upon the successful completion of your order, an order confirmation e-mail and SMS containing your order details will be sent to your registered email ID and phone number."
+  },
+  {
+    "question": "How are the fruits and vegetables weighed?",
+    "answer": "All fruits and vegetables vary in size and weight. You can choose any size/weight available on the website. While you shop, we will show an estimated weight and price. At the time of processing, we pack the closest size/weight and charge you for the actual weight of each item. E.g. If you order 1 kg of apples, we will try to pack exactly 1 kg or the weight closest to 1 kg. If the actual weight is 987 gm, we will bill you for 987 gm and not 1 kg."
+  },
+  {
+    "question": "How do I make changes to my order?",
+    "answer": "Currently, there is no provision to change the order once its been placed. Please call our customer support team & we will assist you however we can."
+  },
+  {
+    "question": "What are the modes of payment I can use for shopping?",
+    "answer": "Currently only cash on delivery option available"
+  },
+  {
+    "question": "How i can check current status of my order?",
+    "answer": "You can always check current status of order from order list screen (order tab)"
+  }
+]
